@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">T1p2BJCS</string>
+    <string name="operaciones">Operaciones Basicas</string>
+    <string name="eleccion">Elige la operacion que deseas realizar</string>
+    <string name="suma">1. SUMA</string>
+    <string name="resta">2. RESTA</string>
+    <string name="multiplicacion">3. MULTIPLICACION</string>
+    <string name="division">4. DIVISION</string>
+    <string name="opcion">Teclea el numero de tu opcion</string>
+    <string name="num">Opción</string>
+    <string name="boton1">Seleccionar</string>
+    <string name="valor">Valor 1</string>
+    <string name="valor2">Valor 2</string>
+    <string name="texto1" />
+    <string name="texto2" />
+    <string name="titpantalla" />
+    <string name="boton2">Calcular</string>
+    <string name="resultado">Resultado:</string>
+    <string name="escribe" />
+</resources>
